@@ -128,7 +128,8 @@ function firstFun(a,b){
 }
 {
     // reduce function: used when we wan to output a single interge
-    let n=prompt("enter a number")
+    // let n=prompt("enter a number")
+    let n=5
     let arr=[]
     for (i=0;i<n;i++){
         arr[i]=i+1
